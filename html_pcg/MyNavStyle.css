@@ -1,0 +1,36 @@
+ .main{
+ display:flex;
+ justify-content:space-around;
+
+ }
+
+ one:hover{
+     background-color skyblue;
+ }
+
+ .one{
+     border: 2px;
+     background-color: beige;
+
+ }
+
+
+ .two{
+     border: 2px;
+     border-color: gray;
+     background-color: beige;
+ }
+
+
+ .three{
+     border: 2px
+     border-color: gray;
+     background-color: beige;
+
+ }
+
+ .four{
+     border: 2px
+     border-color: gray;
+     background-color: beige;
+ }
