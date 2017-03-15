@@ -1,0 +1,13 @@
+#square{
+    width: 250px;
+    height: 250px;
+    background-color: fuchsia;
+    text-align: center;
+
+
+
+}
+
+#insideText{
+    color: white;
+}
